@@ -1,31 +1,40 @@
-﻿# Fluxos n8n ⚙️
+﻿# Portfólio de Engenharia de Automação n8n 
 
-Este diretÃ³rio contÃ©m os arquivos JSON dos fluxos de automaÃ§Ã£o exportados do n8n, organizados para o seu portfÃ³lio.
+Este repositório é uma vitrine técnica da minha experiência em design e implementação de fluxos de automação complexos utilizando n8n.
 
-## ðŸ“‹ OrganizaÃ§Ã£o das Pastas
+> **Nota de Segurança**: Para proteger a propriedade intelectual e as regras de negócio das soluções desenvolvidas, os arquivos fonte (.json) não estão disponíveis para download público ou privado. Este espaço serve apenas como uma demonstração visual da lógica e das integrações.
 
-### ðŸŸ¢ [Ativos](./ativos/)
-ContÃ©m os fluxos que estÃ£o atualmente em produÃ§Ã£o e funcionando.
-*   **Destaques**: 
-    *   `IA_DE_AGENDAMENTO_CALENDARIO_CASA_COM_MCP.json`: AutomaÃ§Ã£o de agenda com inteligÃªncia artificial.
-    *   `CAPTAÃ‡Ã‚O E PRIMEIRO CONTATO ASTATONN.json`: Fluxos de prospecÃ§Ã£o e vendas.
-    *   `GERADOR DE INSTÃ‚NCIA EVOLUTIONNAPI.json`: Gerenciamento de APIs de WhatsApp.
+---
 
-### ðŸ”´ [Desativados](./desativados/)
-ContÃ©m o histÃ³rico de versÃµes e fluxos que nÃ£o estÃ£o mais em uso, mas servem como referÃªncia tÃ©cnica.
-*   **Variedade**: Inclui modelos para Floricultura, Advocacia, ClÃ­nica OdontolÃ³gica, Hamburgueria, e outros setores.
+##  Projetos e Soluções
 
-## ðŸ› ï¸ Como utilizar estes arquivos
-1.  Abra o seu **n8n**.
-2.  Crie um novo workflow.
-3.  VÃ¡ em **Menu -> Import from File**.
-4.  Selecione o arquivo `.json` desejado deste repositÃ³rio.
+###  Soluções de Performance e Escala (Ativos)
+Fluxos robustos atualmente em produção, lidando com altos volumes de dados e integrações críticas.
+- **Ecossistema de Agenda Inteligente**: Automação ponta-a-ponta integrada com Google Calendar e MCP para agendamento autônomo.
+- **Pipeline de Captação e SDR**: Fluxo de prospecção fria e primeiro contato automático, integrando CRM e APIs de mensagens.
+- **Orquestração de APIs (Evolution API)**: Sistema dinâmico para criação e gestão de instâncias de WhatsApp em larga escala.
 
-## ðŸš€ Tecnologias Integradas nestes Fluxos
-- **AI**: OpenAI (GPTs), Anthropic (Claude), Mistral.
-- **Messaging**: Evolution API, Chatwoot, WhatsApp, Instagram.
-- **Database**: Supabase, Google Sheets.
-- **Payments**: Mercado Pago, Stripe, Kiwify.
-- **Productivity**: Google Calendar, GLPI, Notion.
+###  Histórico de Implementações Setoriais
+Experiência comprovada em diversos nichos de mercado, desenvolvendo automações sob medida:
+- **Setor Jurídico**: Automação de triagem de processos e atendimento inicial para escritórios de advocacia.
+- **Setor de Saúde**: Sistemas de confirmação de consultas, lembretes inteligentes e integração com prontuários em clínicas médicas e odontológicas.
+- **Varejo e Food Tech**: Gestão de pedidos para Hamburguerias e Floriculturas, integrando sistemas de pagamento e notificações.
+- **AgroTech**: Automações específicas para o setor agrícola, integrando bases de dados de insumos e logística.
 
+---
 
+##  Stack Tecnológica Dominada
+- **IA & LLMs**: Engenharia de Prompts e RAG utilizando OpenAI, Anthropic e modelos locais via Ollama.
+- **Messaging**: Domínio completo de Evolution API, Chatwoot, WhatsApp Cloud API e Instagram Automation.
+- **Bancos de Dados**: Modelagem e integração com Supabase (PostgreSQL), Firebase e Google Sheets.
+- **Finanças**: Integração com gateways de pagamento (Mercado Pago, Stripe, Kiwify) com conciliação automática via Webhooks.
+- **DevOps/Infra**: Gestão de instâncias n8n, Zabbix e automação de backups de workflows.
+
+---
+
+##  Demonstração Visual
+Para cada projeto listado acima, apresento a lógica visual do fluxo. Caso tenha interesse em ver o funcionamento ou a arquitetura de algum fluxo específico, entre em contato para uma demonstração.
+
+---
+
+**Contato Técnico:** [victor@automatech.tech]
