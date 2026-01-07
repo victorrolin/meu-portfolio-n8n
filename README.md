@@ -1,4 +1,4 @@
-# Fluxos n8n - NutriPlan Pro ⚙️
+# Fluxos n8n ??⚙️
 
 Este diretório contém os arquivos JSON dos fluxos de automação exportados do n8n, organizados para o seu portfólio.
 
@@ -27,3 +27,4 @@ Contém o histórico de versões e fluxos que não estão mais em uso, mas serve
 - **Database**: Supabase, Google Sheets.
 - **Payments**: Mercado Pago, Stripe, Kiwify.
 - **Productivity**: Google Calendar, GLPI, Notion.
+
