@@ -1,30 +1,31 @@
-# Fluxos n8n ??⚙️
+﻿# Fluxos n8n ⚙️
 
-Este diretório contém os arquivos JSON dos fluxos de automação exportados do n8n, organizados para o seu portfólio.
+Este diretÃ³rio contÃ©m os arquivos JSON dos fluxos de automaÃ§Ã£o exportados do n8n, organizados para o seu portfÃ³lio.
 
-## 📋 Organização das Pastas
+## ðŸ“‹ OrganizaÃ§Ã£o das Pastas
 
-### 🟢 [Ativos](./ativos/)
-Contém os fluxos que estão atualmente em produção e funcionando.
+### ðŸŸ¢ [Ativos](./ativos/)
+ContÃ©m os fluxos que estÃ£o atualmente em produÃ§Ã£o e funcionando.
 *   **Destaques**: 
-    *   `IA_DE_AGENDAMENTO_CALENDARIO_CASA_COM_MCP.json`: Automação de agenda com inteligência artificial.
-    *   `CAPTAÇÂO E PRIMEIRO CONTATO ASTATONN.json`: Fluxos de prospecção e vendas.
-    *   `GERADOR DE INSTÂNCIA EVOLUTIONNAPI.json`: Gerenciamento de APIs de WhatsApp.
+    *   `IA_DE_AGENDAMENTO_CALENDARIO_CASA_COM_MCP.json`: AutomaÃ§Ã£o de agenda com inteligÃªncia artificial.
+    *   `CAPTAÃ‡Ã‚O E PRIMEIRO CONTATO ASTATONN.json`: Fluxos de prospecÃ§Ã£o e vendas.
+    *   `GERADOR DE INSTÃ‚NCIA EVOLUTIONNAPI.json`: Gerenciamento de APIs de WhatsApp.
 
-### 🔴 [Desativados](./desativados/)
-Contém o histórico de versões e fluxos que não estão mais em uso, mas servem como referência técnica.
-*   **Variedade**: Inclui modelos para Floricultura, Advocacia, Clínica Odontológica, Hamburgueria, e outros setores.
+### ðŸ”´ [Desativados](./desativados/)
+ContÃ©m o histÃ³rico de versÃµes e fluxos que nÃ£o estÃ£o mais em uso, mas servem como referÃªncia tÃ©cnica.
+*   **Variedade**: Inclui modelos para Floricultura, Advocacia, ClÃ­nica OdontolÃ³gica, Hamburgueria, e outros setores.
 
-## 🛠️ Como utilizar estes arquivos
+## ðŸ› ï¸ Como utilizar estes arquivos
 1.  Abra o seu **n8n**.
 2.  Crie um novo workflow.
-3.  Vá em **Menu -> Import from File**.
-4.  Selecione o arquivo `.json` desejado deste repositório.
+3.  VÃ¡ em **Menu -> Import from File**.
+4.  Selecione o arquivo `.json` desejado deste repositÃ³rio.
 
-## 🚀 Tecnologias Integradas nestes Fluxos
+## ðŸš€ Tecnologias Integradas nestes Fluxos
 - **AI**: OpenAI (GPTs), Anthropic (Claude), Mistral.
 - **Messaging**: Evolution API, Chatwoot, WhatsApp, Instagram.
 - **Database**: Supabase, Google Sheets.
 - **Payments**: Mercado Pago, Stripe, Kiwify.
 - **Productivity**: Google Calendar, GLPI, Notion.
+
 
