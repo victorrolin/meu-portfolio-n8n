@@ -6,19 +6,19 @@ Este repositório é uma vitrine técnica da minha experiência em design e impl
 
 ---
 
-##  Detalhamento dos Fluxos
+## 📋 Detalhamento dos Fluxos
 
 ###  Fluxos em Produção (Ativos)
 Abaixo estão listados os fluxos principais que demonstram integrações avançadas e lógica de larga escala:
 
 1.  **ADICIONA AGENT E GRUPO NO CHATWOOT**: Integração automática para sincronização de agentes e criação de grupos no Chatwoot a partir de eventos externos.
 2.  **assistente_001_geral**: Assistente inteligente de triagem inicial para diversos canais de atendimento.
-3.  **CAPTAÇÂO E PRIMEIRO CONTATO ASTATONN**: Fluxo completo de prospecção, filtragem de leads e disparo de primeira mensagem automática.
-4.  **CAPTAÇÂO E PRIMEIRO CONTATO ELEMENTUS**: Pipeline de vendas especializado com foco em conversão e acompanhamento de leads.
+3.  **CAPTAÇÃO E PRIMEIRO CONTATO ASTATONN**: Fluxo completo de prospecção, filtragem de leads e disparo de primeira mensagem automática.
+4.  **CAPTAÇÃO E PRIMEIRO CONTATO ELEMENTUS**: Pipeline de vendas especializado com foco em conversão e acompanhamento de leads.
 5.  **CRIAR DE PROMPTS PARA AREA ADVOGACIA**: Utilização de LLMs para gerar prompts otimizados para petições e análise jurídica.
 6.  **CRIAR DE PROMPTS PARA AREA MEDICA**: Sistema de apoio à decisão médica com prompts focados em diagnósticos e anamneses.
-7.  **Curso_Elevagro**: Automação de matrícula, envio de acessos e acompanhamento de alunos em plataformas de curso.
-8.  **Elevagro**: Integração central de dados e notificações para a infraestrutura da Elevagro.m9.  **Escritorio Advocacia Adonis**: Gestão autônoma de agendamentos e atendimento preliminar jurídico.
+7.  **Curso_Elevagro**: Automação de matrícula, envio de acessos e acompanhamento de alunos em plataformas de curso.m8.  **Elevagro**: Integração central de dados e notificações para a infraestrutura da Elevagro.
+9.  **Escritorio Advocacia Adonis**: Gestão autônoma de agendamentos e atendimento preliminar jurídico.
 10. **FLUXO DE BACKUP DOS FLUXOS DO N8N**: Automação que exporta e salva todos os fluxos ativos para um repositório seguro diariamente.
 11. **GERADOR DE INSTÂNCIA EVOLUTIONNAPI**: Provisionamento automático de instâncias de WhatsApp, facilitando o onboarding de novos clientes.
 12. **GLPI GRUPO**: Sincronização de chamados técnicos com grupos de comunicação em tempo real.
@@ -35,7 +35,9 @@ Uma biblioteca de mais de 170 fluxos que serviram como protótipos e soluções 
 - **AGENT AGENDAMENTO SAUDE**: Gestão de horários para clínicas médicas.
 - **ESCRITORIO ODONTOLOGIA**: Automação de lembretes e pós-atendimento odontológico.
 - **SAUDEBOT 3ªBSUP**: Assistente especializado para suporte em saúde.
-- **teste_odonto_pagamentos**: Mock de workflow de integração de pagamentos para clínicas.mm####  Setor de Floricultura
+- **teste_odonto_pagamentos**: Mock de workflow de integração de pagamentos para clínicas.
+
+####  Setor de Floricultura
 - **Agente IA Floricultura V 1.0**: Primeira versão funcional do assistente de vendas de flores.
 - **PAGAMENTO MERCADO PAGO FLORICULTURA**: Integração direta para checkout via WhatsApp.
 - **MCP_SERVER_GOOGLE_SHEETS_FLORICULTURA**: Controle de estoque e pedidos via planilha compartilhada.
